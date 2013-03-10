@@ -1,0 +1,25 @@
+import java.awt.*;
+import java.awt.event.*;
+
+class Click implements ActionListener {  
+    Checkers x;
+
+    void makeListeners() {
+        pushed = new ButtonListener(); 
+        reset.addActionListener(pushed);
+        undo.addActionListener(pushed);
+        for (int i = 0; i < 8; i++ ) {
+            for (int j = 0; j < 8; j++) {
+                squares [i][j].addActionListener(pushed);
+            }
+        }
+    }
+
+    void actionPerformed(ActionEvent e) {
+        Object square = e.getSource();
+        if(reset == square) {
+            text.setText("Game has been reset");
+            makePieces();
+        }
+    }
+}

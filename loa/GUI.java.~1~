@@ -1,0 +1,28 @@
+package loa;
+
+import javax.swing.JButton;
+import javac.swing.JLabel;
+import java.awt.Container;
+import java.awt.event;
+import javax.swing.JPanel;
+
+
+Class GUI {
+
+    JButton reset, undo;
+    JButton[][] squares = new JButton[8][8];
+    String[][] pieces = new String[8][8];
+    JLabel text;
+    Container box = getContentPane();
+    ButtonListener pushed;
+
+
+    GUI() {
+        box.setLayout(new BorderLayout());
+        makeBoard();
+        setVisible(true);
+        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        setLocationRelativeTo(null);
+        setSize(400, 400);
+        setTitle("Your title");
+    }

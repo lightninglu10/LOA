@@ -1,0 +1,6 @@
+import java.awt.*;
+import java.awt.event.*;
+
+class Click implements ActionListener {  
+    Checkers x;
+}
