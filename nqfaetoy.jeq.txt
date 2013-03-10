@@ -1,0 +1,95 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#   (use "git rm --cached <file>..." to unstage)
+#
+#	new file:   .gitattributes
+#	new file:   .gitignore
+#	new file:   proj3/.svn/dir-prop-base
+#	new file:   proj3/.svn/entries
+#	new file:   proj3/.svn/text-base/Makefile.svn-base
+#	new file:   proj3/.svn/text-base/ReadMe.svn-base
+#	new file:   proj3/.svn/text-base/staff-version.svn-base
+#	new file:   proj3/Makefile
+#	new file:   proj3/ReadMe
+#	new file:   proj3/loa/#Click.java#
+#	new file:   proj3/loa/#GUI1.java#
+#	new file:   proj3/loa/#MachinePlayer.java#
+#	new file:   proj3/loa/.svn/dir-prop-base
+#	new file:   proj3/loa/.svn/entries
+#	new file:   proj3/loa/.svn/text-base/Board.java.svn-base
+#	new file:   proj3/loa/.svn/text-base/Game.java.svn-base
+#	new file:   proj3/loa/.svn/text-base/HumanPlayer.java.svn-base
+#	new file:   proj3/loa/.svn/text-base/MachinePlayer.java.svn-base
+#	new file:   proj3/loa/.svn/text-base/Main.java.svn-base
+#	new file:   proj3/loa/.svn/text-base/Makefile.svn-base
+#	new file:   proj3/loa/.svn/text-base/Move.java.svn-base
+#	new file:   proj3/loa/.svn/text-base/MutableBoard.java.svn-base
+#	new file:   proj3/loa/.svn/text-base/Piece.java.svn-base
+#	new file:   proj3/loa/.svn/text-base/Player.java.svn-base
+#	new file:   proj3/loa/.svn/text-base/Reporter.java.svn-base
+#	new file:   proj3/loa/.svn/text-base/Side.java.svn-base
+#	new file:   proj3/loa/.svn/text-base/UnitTest.java.svn-base
+#	new file:   proj3/loa/Board.class
+#	new file:   proj3/loa/Board.java
+#	new file:   proj3/loa/Click.java.~1~
+#	new file:   proj3/loa/GUI$Click.class
+#	new file:   proj3/loa/GUI$OvalComponent.class
+#	new file:   proj3/loa/GUI.class
+#	new file:   proj3/loa/GUI.java
+#	new file:   proj3/loa/GUI.java.~1~
+#	new file:   proj3/loa/Game.class
+#	new file:   proj3/loa/Game.java
+#	new file:   proj3/loa/HumanPlayer.class
+#	new file:   proj3/loa/HumanPlayer.java
+#	new file:   proj3/loa/MachinePlayer.class
+#	new file:   proj3/loa/MachinePlayer.java
+#	new file:   proj3/loa/Main.class
+#	new file:   proj3/loa/Main.java
+#	new file:   proj3/loa/Makefile
+#	new file:   proj3/loa/Move.class
+#	new file:   proj3/loa/Move.java
+#	new file:   proj3/loa/MutableBoard.class
+#	new file:   proj3/loa/MutableBoard.java
+#	new file:   proj3/loa/Piece.class
+#	new file:   proj3/loa/Piece.java
+#	new file:   proj3/loa/Player.class
+#	new file:   proj3/loa/Player.java
+#	new file:   proj3/loa/Reporter.class
+#	new file:   proj3/loa/Reporter.java
+#	new file:   proj3/loa/Side.class
+#	new file:   proj3/loa/Side.java
+#	new file:   proj3/loa/UnitTest.class
+#	new file:   proj3/loa/UnitTest.java
+#	new file:   proj3/loa/checkers.jpg
+#	new file:   proj3/loa/sentinel
+#	new file:   proj3/staff-version
+#	new file:   proj3/svn-commit.2.tmp.~1~
+#	new file:   proj3/tests/.svn/entries
+#	new file:   proj3/tests/.svn/text-base/ai-v-staff.inp.svn-base
+#	new file:   proj3/tests/.svn/text-base/ai2.inp.svn-base
+#	new file:   proj3/tests/.svn/text-base/fullgame.inp.svn-base
+#	new file:   proj3/tests/.svn/text-base/fullgame2.inp.svn-base
+#	new file:   proj3/tests/.svn/text-base/init.inp.svn-base
+#	new file:   proj3/tests/.svn/text-base/init.std.svn-base
+#	new file:   proj3/tests/.svn/text-base/simplemoves.inp.svn-base
+#	new file:   proj3/tests/.svn/text-base/simplemoves.std.svn-base
+#	new file:   proj3/tests/.svn/text-base/test2.inp.svn-base
+#	new file:   proj3/tests/.svn/text-base/winnable1.inp.svn-base
+#	new file:   proj3/tests/ai-v-staff.inp
+#	new file:   proj3/tests/ai2.inp
+#	new file:   proj3/tests/fullgame.inp
+#	new file:   proj3/tests/fullgame2.inp
+#	new file:   proj3/tests/init.inp
+#	new file:   proj3/tests/init.std
+#	new file:   proj3/tests/simplemoves.inp
+#	new file:   proj3/tests/simplemoves.std
+#	new file:   proj3/tests/test2.inp
+#	new file:   proj3/tests/winnable1.inp
+#
+
